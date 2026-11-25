@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+*.sqlite*
+*.log
+test-output/
+*.pem
+*.pfx
+*.p12

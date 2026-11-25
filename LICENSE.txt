@@ -1,0 +1,31 @@
+LICENCE D'UTILISATION — PCRLia
+© 2026 I.Arvish. Tous droits réservés.
+
+PCRLia (« le Logiciel ») est une œuvre originale protégée par le droit d'auteur.
+L'auteur, I.Arvish, en conserve tous les droits patrimoniaux et moraux.
+
+1. UTILISATION ACCORDÉE
+   L'auteur accorde au laboratoire destinataire un droit d'utiliser le Logiciel
+   pour ses besoins internes de réception des tubes PCR, et de l'adapter à ses
+   propres laboratoires, analyses, connexions et en-tête (fichiers de
+   paramétrage et d'interface).
+
+2. CE QUI N'EST PAS ACCORDÉ
+   Sauf accord écrit préalable de l'auteur, il est interdit de :
+   - redistribuer, revendre, publier ou mettre à disposition de tiers le
+     Logiciel ou une œuvre qui en dérive, en tout ou partie ;
+   - utiliser le Logiciel, son code ou sa documentation pour entraîner,
+     affiner ou évaluer un système d'intelligence artificielle, ou pour en
+     constituer un jeu de données ;
+   - retirer ou masquer les mentions de droit d'auteur, la mention
+     « Une interface I.Arvish » ou l'identifiant d'édition.
+
+3. ABSENCE DE GARANTIE
+   Le Logiciel est fourni « en l'état », sans garantie. L'auteur ne saurait
+   être tenu responsable de son utilisation. Le laboratoire reste responsable
+   de la validation, de la sécurité et de la conformité de son installation,
+   notamment pour les données de santé.
+
+4. DROIT APPLICABLE
+   La présente licence est régie par le droit français. Pour toute autorisation
+   au-delà de l'usage accordé ci-dessus, contacter l'auteur.

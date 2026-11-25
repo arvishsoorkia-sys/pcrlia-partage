@@ -1,0 +1,2 @@
+# PCRLia : seule dépendance hors bibliothèque standard (certificat HTTPS, signatures).
+cryptography>=42
